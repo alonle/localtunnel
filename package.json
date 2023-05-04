@@ -1,17 +1,18 @@
 {
   "name": "localtunnel",
   "description": "Expose localhost to the world",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/localtunnel/localtunnel.git"
+    "url": "git://github.com/alonle/localtunnel.git"
   },
   "author": "Roman Shtylman <shtylman@gmail.com>",
   "contributors": [
     "Roman Shtylman <shtylman@gmail.com>",
     "Gert Hengeveld <gert@hichroma.com>",
-    "Tom Coleman <tom@hichroma.com>"
+    "Tom Coleman <tom@hichroma.com>",
+    "Alon Levi <alonle#gmail.com>"
   ],
   "main": "./localtunnel.js",
   "bin": {
